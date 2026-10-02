@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Games",
+  "Description": "Hearthwake foundation; no playable content yet",
+  "Modules": [
+    {
+      "Name": "Hearthwake",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
